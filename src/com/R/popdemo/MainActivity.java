@@ -10,8 +10,8 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ListView;
 
-/**
- * 主界面
+/**   
+ * 主界面 test git
  * 
  * @author Reginer
  * 
