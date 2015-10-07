@@ -11,7 +11,7 @@ import android.os.Bundle;
 import android.widget.ListView;
 
 /**   
- * 主界面 test git
+ * 主界面 git测试
  * 
  * @author Reginer
  * 
